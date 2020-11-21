@@ -1,2 +1,2 @@
-This repository contains the solutions of programming assignments that are given in the Accelerated Computer Science Fundamentals Specialization 
-given by University of Illinois 
+This repository contains the solutions of programming assignments which are required for the completion of the Accelerated Computer Science Fundamentals Specialization 
+course given by University of Illinois in Coursera. 
